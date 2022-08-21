@@ -1,0 +1,19 @@
+.textCenter {
+    text-align: center;
+}
+
+.inputBoxes {
+    margin-top: 15px;
+}
+
+.password {
+    margin-top: 15px;
+}
+
+.signinButton {
+    margin-top: 50px;
+}
+
+.inputs::placeholder {
+    font-family: "Lato";
+}
